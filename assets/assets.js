@@ -35,6 +35,12 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import selenium_icon from './selenium.png'
+import cucumber from './cucumber.png'
+import cypress from './cypress.png'
+import intelliJ from './intellij.png'
+import mySQL from './mysql.png'
+
 
 export const assets = {
     user_image,
@@ -73,7 +79,12 @@ export const assets = {
     right_arrow,
     send_icon,
     right_arrow_bold,
-    right_arrow_bold_dark
+    right_arrow_bold_dark,
+    selenium_icon,
+    cucumber,
+    cypress,
+    intelliJ,
+    mySQL
 };
 
 export const workData = [
@@ -107,11 +118,11 @@ export const serviceData = [
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'JavaScript, Cypress, Java, Selenium WebDriver, Cucumber, React Js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Com from CSJM University' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Java, JavaScript, Selenium WebDriver, Cypress, Cucumber, React JS' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Bachelors from CSJM University' },
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Optum', description: 'Senior Quality Engineer' }
 ];
 
 export const toolsData = [
-    assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git
+    assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git, assets.selenium_icon, assets.cucumber, assets.cypress, assets.intelliJ, assets.mySQL
 ];
