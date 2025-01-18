@@ -120,7 +120,7 @@ export const serviceData = [
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Java, JavaScript, Selenium WebDriver, Cypress, Cucumber, React JS' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'Bachelors from CSJM University' },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Optum', description: 'Senior Quality Engineer' }
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Wipro', description: 'Senior Quality Engineer' }
 ];
 
 export const toolsData = [
