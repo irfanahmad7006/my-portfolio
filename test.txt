@@ -1,4 +1,14 @@
 https://www.youtube.com/watch?v=Y2kGqbzvAn4
 2:34:39
 
-this is a copy right text
+Create Name logo/dark 
+Services:
+    Refactor:
+        1.icon (download icon)
+        2.title (updated title)
+        3.description
+        4.link
+Work:
+    Refactor:
+        1.title
+        2.description
