@@ -115,10 +115,10 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Selenium Test Automation', description: 'This project is based on Selenium. It is cross-platform, open source and free. It allows you to automate your test cases with minimal coding....', link: '' },
+    { icon: assets.selenium_icon, title: 'Selenium Test Automation', description: 'This project is based on Selenium. It is cross-platform, open source and free. It allows you to automate your test cases with minimal coding....', link: '' },
     { icon: assets.mobile_icon, title: 'Cypress Test Automation', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
     { icon: assets.ui_icon, title: 'Playwright Test Automation', description: 'This project is based on Playwright with Typescript which does reliable E2E testing for web application...', link: 'https://github.com/irfanahmad7006/payback-playwright' },
-    { icon: assets.graphics_icon, title: 'React JS', description: 'Creative web solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'React JS', description: 'Creative web solutions to enhance visual communication...', link: '' },
 ]
 
 export const infoList = [
